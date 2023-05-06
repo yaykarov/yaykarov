@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! :wave:
 
-<!--
-**yaykarov/yaykarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! This is where I showcase my skills and projects using the following technologies:
 
-Here are some ideas to get you started:
+:snake: Python
+:elephant: PostgreSQL
+:whale: Oracle DataBase
+:herb: Celery
+:arrows_counterclockwise: Redis
+:rabbit: RabbitMQ
+:rocket: Django
+:gear: DRF
+:art: HTML
+:art: CSS
+:sparkles: Jinja2
+:leaves: MongoDB
+:coffee: Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my code and projects. Don't hesitate to reach out if you have any questions or if you're interested in collaborating with me.
+
+Thank you for stopping by! :smile:
