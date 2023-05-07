@@ -2,8 +2,9 @@
 
 Welcome to my GitHub repository! This is where I showcase my skills and projects using the following technologies:
 
--:snake: Python
--:elephant: PostgreSQL
+:snake: Python
+
+:elephant: PostgreSQL
 -:whale: Oracle DataBase
 -:herb: Celery
 -:arrows_counterclockwise: Redis
